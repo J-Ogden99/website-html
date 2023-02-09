@@ -1,4 +1,4 @@
-#!/bin/bash
+log#!/bin/bash
 
 while getopts k:h: flag
 do
